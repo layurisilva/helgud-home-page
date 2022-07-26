@@ -128,6 +128,16 @@ div#atributos>img{
     margin: 30px 0px 30px 0px;
 }
 
+.texto-suco{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: bolder;
+    font-weight: 700px;
+    font-size: 18px;
+    line-height: 29px;
+    margin-top: 25px;
+}
+
 .botao{
     height: 50px;
     background-color: black;
